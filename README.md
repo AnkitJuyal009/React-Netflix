@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# NOTE 
+To fully get the most out of the app, you have to get the tmdb api key and pass it in the "components/requests.js"
+
+## Here's the deployed version of netflix 
+https://react-netflix-bfa63.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
